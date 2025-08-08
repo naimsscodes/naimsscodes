@@ -3,6 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Muhammad%20Naim%20Suhaimi%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff&fontAlignY=40" />
 </p>
 
+---
+
+### 🐍 Contribution Snake Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naimsscode/naimsscode/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <h2 align="center">Hi there, I'm Naim Suhaimi 👋</h2>
 <p align="center">Cybersecurity & AI Enthusiast | Automation & Cloud Explorer | DonkeyCar Builder</p>
 
