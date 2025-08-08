@@ -8,7 +8,7 @@
 ### 🐍 Contribution Snake Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naimsscode/naimsscode/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/naimsscodes/naimsscodes/output/github-contribution-grid-snake.svg" />
 </p>
 
 
