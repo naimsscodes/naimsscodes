@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Muhammad%20Naim%20Suhaimi%20🚀&fontSize=40&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Muhammad%20Naim%20Suhaimi%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff&fontAlignY=40" />
 </p>
 
 <h2 align="center">Hi there, I'm Naim Suhaimi 👋</h2>
-<p align="center">💻 Cybersecurity & AI Enthusiast | ⚡ Automation & Cloud Explorer | 🤖 DonkeyCar Builder</p>
+<p align="center">Cybersecurity & AI Enthusiast | Automation & Cloud Explorer | DonkeyCar Builder</p>
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 Let’s Connect
+### 📢 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadnaimsuhaimi" target="_blank">
@@ -73,12 +73,16 @@
 
 ---
 
+### 🔄 Fun GIFs
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimsuhaimi&theme=github-compact&area=true&hide_border=true"/>
 </p>
-
----
