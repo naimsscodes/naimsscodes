@@ -7,18 +7,18 @@ This will be my profile README.
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+CTO+%2F+CDTO;Cybersecurity+%7C+Cloud+%7C+AI+Engineer;Power+Platform+Automator;DonkeyCar+Builder+%F0%9F%9A%97;Intern+@+EPF+(EA+Team)&font=Fira+Code&center=true&width=500&height=45&pause=1000">
+  <!-- Simple greeting -->
+<h2 align="center">Hello, I'm Naim Suhaimi 👋</h2>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Currently: Final Year Student | Interned at **EPF (Enterprise Architecture Team)**  
-- 🤖 Building an autonomous **DonkeyCar RC** using Raspberry Pi, Python, AI  
+- 💼 Currently:Ex Intern at **EPF (Enterprise Architecture Team)**  
+- 🤖 Ai & Automation Enthusiast|Computer Technician| Cybersecurity
 - 🌩️ Tools: PowerApps, PowerAutomate, Azure, GitHub, Python, JS  
-- 🎯 Goal: Become a **CTO / CDTO / VP** before age 35  
-- 🌱 Learning: Advanced Cybersecurity, System Design, DevOps & Cloud Architecture
+- 🌱 Learning: Cybersecurity, System Design, DevOps & Cloud Architecture
 
 ---
 
@@ -54,16 +54,6 @@ This will be my profile README.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=naimsuhaimi&theme=tokyonight" width="70%" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🚗 DonkeyCar](https://github.com/naimsuhaimi/donkeycar-project) | Python-based autonomous RC car with real-time AI |
-| [📊 EPF Power Platform](https://github.com/naimsuhaimi/powerapps-automation) | PowerApps + PowerAutomate for internal EPF processes |
-| [📁 All Repositories](https://github.com/naimsuhaimi?tab=repositories) | Explore my work |
 
 ---
 
