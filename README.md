@@ -7,9 +7,13 @@
 
 ### 🐍 Contribution Snake Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naimsscodes/naimsscodes/output/github-contribution-grid-snake.svg" />
-</p>
+
+<!-- Animated version for desktop -->
+![GitHub Snake](https://raw.githubusercontent.com/naimsscodes/naimsscodes/output/github-contribution-grid-snake.svg)
+
+<!-- Static fallback image for mobile -->
+> ❗ If the animation above doesn’t show, [click here to view it in your browser](https://github.com/naimsscodes/naimsscodes)
+
 
 
 
