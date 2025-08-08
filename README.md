@@ -1,24 +1,10 @@
-# Hello! 👋 Welcome to my GitHub profile
-This will be my profile README.
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naim%20Suhaimi%20🚀&fontSize=40&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-<!-- Typing effect -->
-<p align="center">
-  <!-- Simple greeting -->
+<!-- Simple Greeting -->
 <h2 align="center">Hello, I'm Naim Suhaimi 👋</h2>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 💼 Currently:Ex Intern at **EPF (Enterprise Architecture Team)**  
-- 🤖 Ai & Automation Enthusiast|Computer Technician| Cybersecurity
-- 🌩️ Tools: PowerApps, PowerAutomate, Azure, GitHub, Python, JS  
-- 🌱 Learning: Cybersecurity, System Design, DevOps & Cloud Architecture
 
 ---
 
@@ -57,7 +43,7 @@ This will be my profile README.
 
 ---
 
-### 📸 Contribution Heatmap (image version)
+### 📸 Contribution Heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimsuhaimi&theme=tokyo-night&hide_border=true" />
@@ -65,7 +51,7 @@ This will be my profile README.
 
 ---
 
-### 💼 Developer Profile Card
+### 💼 Profile Summary Card
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimsuhaimi&theme=tokyonight" />
@@ -73,10 +59,9 @@ This will be my profile README.
 
 ---
 
-### 🧭 WakaTime Weekly Coding Time (Optional - if setup)
-
-<!-- UNCOMMENT THIS ONLY IF WAKATIME IS ENABLED -->
+<!-- Optional: WakaTime (hide if not used) -->
 <!-- 
+### ⏱️ WakaTime Coding Time
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=naimsuhaimi&theme=tokyonight" />
 </p>
@@ -87,13 +72,17 @@ This will be my profile README.
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/naimsuhaimi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/naimsuhaimi](https://www.linkedin.com/in/muhammadnaimsuhaimi/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:naimsuhaimi782gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### ☕ Fun Fact
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=100&section=footer"/>
+</p>
+
 
 > “I automate boring tasks while training my RC car to drive itself — I don’t chase dreams, I engineer them.”
 
