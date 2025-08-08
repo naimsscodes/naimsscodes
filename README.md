@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+curious+🚀;Hack+stuff+%7C+Automate+everything+%7C+Never+stop+learning" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
