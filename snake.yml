@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: USERNAME # tukar kepada username kau
+          github_user_name: naimsscodes # tukar kepada username kau
           outputs: dist/snake.svg
 
       - name: Push Snake SVG
