@@ -55,7 +55,7 @@
 <!-- 6. Connect With Me -->
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/naimsscodes](https://www.linkedin.com/in/muhammadnaimsuhaimi/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/naimsscodes]([https://www.linkedin.com/in/muhammadnaimsuhaimi/](https://www.linkedin.com/in/muhammadnaimsuhaimi/))" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   <a href="mailto:naimsuhaimi78@gmail.com">
