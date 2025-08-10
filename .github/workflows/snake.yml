@@ -1,28 +1,28 @@
-name: Generate Snake
+name: Generate Snake Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # update setiap 12 jam
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *" # run setiap hari
+  workflow_dispatch: # boleh trigger manual
+
+permissions:
+  contents: write  # penting! bagi write access pada repo
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate snake graph
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: naimsscodes # tukar kepada username kau
+          github_user_name: naimsscodes
           outputs: dist/snake.svg
 
-      - name: Push Snake SVG
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
