@@ -11,7 +11,7 @@
 <h1 align="center">Hi there 👋, I'm Naim Suhaimi</h1>
 <p align="center">
 🚀 Aspiring Chief Digital Technology Officer (CDTO) & VP before 35 <br>
-🏆 Former Intern @ EPF (Enterprise Architecture - PowerApps & PowerAutomate Projects) <br>
+🏆 Former Intern @ EPF Malaysia (Enterprise Architecture - PowerApps & PowerAutomate Projects) <br>
 🎯 Passion: AI, Cloud, Cybersecurity, and Automation
 </p>
 
