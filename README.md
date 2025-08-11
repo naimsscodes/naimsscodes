@@ -38,13 +38,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=naimsscodes&theme=onedark&row=1&column=6" alt="Trophies" />
 </p>
 
-<!-- 5. GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimsscodes&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://raw.githubusercontent.com/naimsscodes/naimsscodes/main/assets/streak.svg" alt="GitHub streak" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimsscodes&theme=radical" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naimsscodes&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  <img src="https://raw.githubusercontent.com/naimsscodes/naimsscodes/main/assets/streak.svg" alt="GitHub streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimsscodes&theme=radical" alt="Productive Time" height="165" />
 </p>
+
 
 
 <p align="center">
