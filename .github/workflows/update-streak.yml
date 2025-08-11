@@ -3,7 +3,7 @@ name: Update GitHub Streak
 on:
   schedule:
     - cron: "0 */6 * * *"  # Update setiap 6 jam
-  workflow_dispatch:       # Boleh run manual dari Actions tab
+  workflow_dispatch:       # Boleh run manual
 
 jobs:
   update-streak:
@@ -14,12 +14,15 @@ jobs:
 
       - name: Download latest streak image
         run: |
-          curl -o assets/streak.svg "https://streak-stats.demolab.com?user=naimsscodes&theme=tokyonight&date_format=%5BY.%5Dn.j"
+          mkdir -p assets
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+               -o assets/streak.svg \
+               "https://streak-stats.demolab.com?user=naimsscodes&theme=tokyonight&date_format=%5BY.%5Dn.j"
 
-    - name: Commit and push if changed
-  run: |
-    git config --global user.name "GitHub Actions"
-    git config --global user.email "actions@github.com"
-    git add assets/streak.svg
-    git commit -m "Update streak stats" || exit 0
-    git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add assets/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
