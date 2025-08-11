@@ -43,10 +43,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimsscodes&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimsscodes&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=naimsscodes&theme=tokyonight" alt="GitHub streak" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimsscodes&theme=radical" />
 </p>
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimsscodes&theme=tokyo-night" alt="Contribution Graph" />
 </p>
