@@ -1,0 +1,25 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Update setiap 6 jam
+  workflow_dispatch:       # Boleh run manual dari Actions tab
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest streak image
+        run: |
+          curl -o assets/streak.svg "https://streak-stats.demolab.com?user=naimsscodes&theme=tokyonight&date_format=%5BY.%5Dn.j"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add assets/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
