@@ -15,7 +15,7 @@
   
 🏆 Former Intern @ EPF Malaysia (Enterprise Architecture - PowerApps & PowerAutomate Projects) <br>
 
-🏆 Former ChampionFederation of International Robot-Sports Association (Autonomous car 2023,2024)<br>
+🏆 Former Champion Federation of International Robot-Sports Association (Autonomous car 2023,2024)<br>
 
 🎯 Passion: AI, Cloud, Cybersecurity, and Automation
 </p>
