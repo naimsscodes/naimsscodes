@@ -12,6 +12,7 @@
 <p align="center">
 🚀 Aspiring Chief Digital Technology Officer (CDTO) & Vice President before 40 <br>
 🏆 Former Intern @ EPF Malaysia (Enterprise Architecture - PowerApps & PowerAutomate Projects) <br>
+🏆 Former ChampionFederation of International Robot-Sports Association (Autonomous car 2023,2024)
 🎯 Passion: AI, Cloud, Cybersecurity, and Automation
 </p>
 
