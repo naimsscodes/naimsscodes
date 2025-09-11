@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Power+Platform+Developer;Always+Learning+New+Things" />
 </p>
 
----
+---------
 
 <!-- 2. Intro -->
 <h1 align="center">Hi there 👋, I'm Naim Suhaimi</h1>
